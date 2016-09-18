@@ -18,8 +18,8 @@ imageScaleShow.js调用很简单，只需普通jQuery插件使用的三步即可
     // jQuery库依赖
     <script type="text/javascript" src="js/jquery.min.js"></script>
 
-    // autoCatalog.js
-    <script type="text/javascript" src="js/imageScaleShow.js"></script>
+    // imageScaleShow.js
+    <script type="text/javascript" src="js/imageScaleShow.min.js"></script>
 
 #### 第三步：imageScaleShow
     // 配置
